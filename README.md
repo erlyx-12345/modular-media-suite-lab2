@@ -27,8 +27,8 @@ You can run the program using **two kinds of terminals**:
 Follow these steps:
 
 1. **Open a terminal:**
-   - If you are using an IDE → open its built-in terminal.  
-   - If you are not using an IDE → open **Command Prompt** or **PowerShell** (Windows) or **Terminal** (Mac/Linux).
+   - If you are using an IDE just open its built-in terminal.  
+   - Otherwise, If you are not using an IDE just open the **Command Prompt** or **PowerShell** (Windows) or **Terminal** (Mac/Linux).
 
 2. **Go to the folder** where your `modularmedia` files are located.  
    Example (Windows):
