@@ -84,6 +84,6 @@ When you run the program, follow these steps:
    - The player shows your media list and begins playing.
 
 ---
-## 📄 Documentation
+## Documentation
 See the **docs/** folder for the architecture overview, UML diagrams, design rationale, and reflection.
 
